@@ -1,0 +1,58 @@
+.head {
+  background-color: pink;
+  padding: 30px;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+  animation-name: example;
+  animation-duration: 5s;}
+  @keyframes example {
+    from {background-color: pink;}
+    to {background-color: yellow;}}
+
+.contact {display: flex;
+  float: left;
+  background-color: yellow;
+  width: 19%;
+  height: 400px;
+  margin-right:0px;
+}
+.text1{background-color:pink;
+width: 80%;
+height: 450px;
+  float: right;
+}
+.text2{
+  background-color:pink;
+    width: 80%;
+    display: flex;
+    float: right;
+}
+.text3{
+  background-color:pink;
+    width: 80%;
+    display: flex;
+    float: right;
+}
+.langue {display: flex;
+  float: left;
+  background-color: yellow;
+  width: 19%;
+  height: 400px;
+  margin-right:0px;
+}
+.hobby {display: flex;
+  float: left;
+  background-color: yellow;
+  width: 19%;
+  height: 400px;
+  margin-right:0px;
+}
+.text4 {
+float: left;
+height: 470px;
+  background-color: yellow;
+  width: 19%;
+}
